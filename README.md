@@ -3,6 +3,11 @@ CardView Pagination with Next/Previous buttons
 
 # Android CardView Pagination.
 
+Here is the demo:
+
+![CardView Pagination](CardsPagination.gif)
+
+
 #### What we do :
 - Create Card s at runtime.
 - These are Children of android.view.CardView baseclass.
@@ -41,6 +46,8 @@ Please download the whole source above.
 We have plenty of easy to understand examples in our site so make sure you visit it.
 
 
+Check the tutorial here: https://android.camposha.info/android-pagination-examples-for-listviewgridview-and-cardview/
+
 ##### Author
 Oclemy,Cheers.
-http://camposha.info
+https://camposha.info
